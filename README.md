@@ -43,16 +43,6 @@ Functional Specification:
 <b>ER-Diagram</b>
 <img src="https://imgur.com/cXSgrXO.png" width=100%>
 
-<b>Snapshots</b>
 
-
-<img src="https://imgur.com/elXTDUL.png" width=100%>
-
-
-
-
-
-
-<img src="https://imgur.com/gdsCmoY.png" width=100%>
 
 
