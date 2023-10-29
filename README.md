@@ -1,5 +1,5 @@
-# DBMS-MINI-Project
- DBMS project on topic Online Examination System
+# Online Examination System
+ DBMS project 
 
 <b>Technology Used:</b>
 
