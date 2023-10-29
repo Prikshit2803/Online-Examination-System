@@ -47,7 +47,7 @@ Functional Specification:
 
 <img src="https://imgur.com/k8uCKmF.png" width=100%>
 <img src="https://imgur.com/elXTDUL.png" width=100%>
-<img src="https://imgur.com/boG3UD5.png" width=100%>
+
 
 <img src="https://imgur.com/k3eLTbx.png" width=100%>
 
