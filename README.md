@@ -45,7 +45,7 @@ Functional Specification:
 
 <b>Snapshots</b>
 
-<img src="https://imgur.com/k8uCKmF.png" width=100%>
+
 <img src="https://imgur.com/elXTDUL.png" width=100%>
 
 
